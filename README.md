@@ -19,7 +19,7 @@ Este proyecto implementa operaciones CRUD completas (Crear, Leer, Actualizar y E
 
 ### Requisitos del Sistema
 
-- **Sistema Operativo**: Ubuntu 20.04.6 LTS (Focal Fossa)
+- **Sistema Operativo**: Ubuntu 20.04.6 LTS (Focal Fossa) /  Ubuntu 22.04.4 LTS 
 - **Kernel**: Version 6.2.16-3-pve
 - **EasyUI**: Version 1.10.19 (react-easyui-1.10.19)
 - **NodeJS**: Version v20.15.0
