@@ -31,7 +31,7 @@ El proyecto también ha sido probado en el siguiente entorno alternativo:
 
 - **Sistema Operativo**: Windows 10 Pro 1803
 - **EasyUI**: Version 1.10.19 (react-easyui-1.10.19)
-- **NodeJS**: Version v20.15.0
+- **NodeJS**: Version 18.3.1 (package.json)
 - **npm/npx**: 10.8.1
 - **react**: 18.3.1
 
