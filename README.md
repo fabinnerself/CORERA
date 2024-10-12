@@ -68,6 +68,26 @@ El proyecto también ha sido probado en el siguiente entorno alternativo:
 
 extraido de https://www.jeasyui.com/download/rc.php
 
+## Imagenes
+![Corera](corera.png)
+
+Busqueda
+
+![Corera busqueda](corera_buscar.png)
+
+Adición
+
+![Corera adicion](corera_add.png)
+
+Eliminacion
+
+![Corera eliminacion](corera_del.png)
+
+Modificacion
+
+![Corera modificacion](corera_mod.png)
+
+
 ## Comandos utiles
 
 lsb_release -a && uname -r
